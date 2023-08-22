@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://portal.zebratv.one:2095/play/live.php?mac=10:27:BE:2D:93:E2&stream=44152&extension=m3u8&play_token=NRvf1opFXM
