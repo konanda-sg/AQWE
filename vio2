@@ -19,11 +19,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:0 CUID="7" tvg-name="Net TV" tvg-id="nettv.id" tvg-logo="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png" group-title="Lokal HD",Net TV
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:0 CUID="691" tvg-name="INDOSIAR" tvg-id="indosiar.id" tvg-logo="https://logo.iptveditor.com/indosiar.png" group-title="Lokal HD",INDOSIAR
-https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822656776
-
-#EXTINF:0 CUID="692" tvg-name="SCTV" tvg-id="sctv.id" tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="Lokal HD",SCTV
-https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822656777
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 CUID="6" tvg-name="MNC TV" tvg-id="mnctv.id" tvg-logo="https://logo.iptveditor.com/mnctv.png" group-title="Lokal HD",MNC TV
@@ -41,8 +36,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:0 CUID="12" tvg-name="TVOne" tvg-id="tvone.id" tvg-logo="https://img2.pngdownload.id/20180605/vvz/kisspng-tv-one-streaming-television-tvone-streaming-media-tv-channel-5b16be028802e6.3440336115282170905571.jpg" group-title="Lokal HD",TVOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:0 CUID="690" tvg-name="MOJI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Lokal HD",MOJI TV
-https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822666918
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 CUID="13" tvg-name="Kompas TV" tvg-id="kompastv.id" tvg-logo="https://logo.iptveditor.com/kompastv.png" group-title="Lokal HD",Kompas TV
@@ -59,18 +52,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 CUID="17" tvg-name="TVRI" tvg-id="tvri.id" tvg-logo="https://logo.iptveditor.com/tvri.png" group-title="Lokal HD",TVRI
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 CUID="21" tvg-name="Berita Satu" tvg-id="beritasatu.id" tvg-logo="https://logo.iptveditor.com/beritasatu.png" group-title="Lokal HD",Berita Satu
-https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 CUID="22" tvg-name="JakTV" tvg-id="jaktv.id" tvg-logo="https://logo.iptveditor.com/jaktv.png" group-title="Lokal HD",JakTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 CUID="23" tvg-name="JTV" tvg-id="jtv.id" tvg-logo="https://logo.iptveditor.com/jtv.png" group-title="Lokal HD",JTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 CUID="16" tvg-name="Rajawali TV" tvg-logo="https://logo.iptveditor.com/rajawalitv.png" group-title="Lokal HD",Rajawali TV
