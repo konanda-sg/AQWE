@@ -69,114 +69,114 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/32
 --------------------------------------------------DAZN---------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 1 De
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 2 De
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn La Liga Es
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png" tvg-group="Deportes",DAZN 1 ES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 2 Es
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn F1 Es
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Zona Dazn IT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Eurosport 1 It
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-029/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Eurosport 2 It
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-030/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Sports Digital
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN COMBAT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN RISE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN WOMEN'S FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN FAST+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn NBA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn REDBULL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-036/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn BEAT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-044/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 1 FIGHT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn intertv
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn PLAYSOPRT1 51
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn PLAYSOPRT2 52
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hd1tcp4.png", Dazn PLAYSOPRT3 53
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn ELEVEN1 47
 #KODIPROP:inputstream.adaptive.license_type=clearkey
