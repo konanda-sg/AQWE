@@ -183,10 +183,9 @@ https://astrukbypass.riwatn.workers.dev/dash-wv/linear/5079/default.mpd
 https://alpukat-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.postimg.cc/Ss96NWmP/20220927-063827.png" group-title="Sports", BADMINTON 1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_090124/master.m3u8
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_170124/master.m3u8
-http://203.205.137.121/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/mobilelive-pull.ysp.cctv.cn/ysp/2022437501_hd.m3u8
-http://203.205.137.121/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/mobilelive-pull.ysp.cctv.cn/ysp/2022448501_hd.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_180124/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099894/hd_akamai_merged_avc_eng_bwf_m2_180124/master.m3u8
+https://habotv.github.io/live/c3.m3u8?txSecret=0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
