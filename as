@@ -298,3 +298,8 @@ https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/016a/31248/FHD/skysportmax/ma
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00032fac37d1a7613739256f4ab7dc76:8f71b6743fd41c96df36c06a48ac4bae
 https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sd/Live/channel(skysportsmix)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-logo="", SKYSPORTS EVENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
+https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
