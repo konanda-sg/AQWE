@@ -130,22 +130,22 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN COMBAT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN RISE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN WOMEN'S FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN FAST+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=z7XitzvvTzyHjyWrhqdFHw:DWcSvyqE7cyT0AGpYT9v7A
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
